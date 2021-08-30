@@ -105,7 +105,6 @@ form {
 
 button {
     display: block;
-    background:var(--verde);
     color: #eff1f7;
     background-color: rgb(10, 28, 46);
     border: 0;
